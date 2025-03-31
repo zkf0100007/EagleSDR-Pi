@@ -3,3 +3,4 @@ EagleSDR Pi is a single board SDR platform. It includes a Xilinx Zynq-7020, AD93
 
 The schematic and PCB are designed by PADS VX 2.7
 
+![image](/PICTURE/3.jpg)
